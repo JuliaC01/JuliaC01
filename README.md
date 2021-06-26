@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Julia Changalova
+- 🌱 I’m currently learning software engineering
+- 📫 How to reach me -> my email address is changalovajulia@gmail.com
